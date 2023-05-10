@@ -1,0 +1,467 @@
+[29-Mar-2023 13:52:38 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 13:52:38 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[29-Mar-2023 13:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 13:52:52 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 13:52:52 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[29-Mar-2023 13:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 13:56:00 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[29-Mar-2023 13:56:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 13:56:36 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[29-Mar-2023 13:56:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 13:57:54 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 13:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[29-Mar-2023 13:57:56 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 13:57:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[29-Mar-2023 13:58:09 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 13:58:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[29-Mar-2023 13:58:15 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 13:58:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[29-Mar-2023 13:59:34 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 13:59:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[29-Mar-2023 14:00:42 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:00:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:00:49 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:00:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:01:30 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:01:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:01:30 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:01:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:02:21 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:02:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:02:27 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:02:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:12:05 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:12:37 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:12:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:14:40 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:14:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:15:24 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:15:24 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:15:38 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:15:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:16:52 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:16:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:17:07 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:17:07 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:17:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:17:39 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:17:39 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 7
+[29-Mar-2023 14:18:41 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:18:41 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 7
+[29-Mar-2023 14:22:08 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:22:08 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:22:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:22:10 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:22:10 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:22:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:22:10 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:22:10 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:22:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:22:11 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:22:11 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:22:12 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:22:12 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:22:13 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:22:13 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:22:14 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:22:14 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:22:50 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:22:51 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:22:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:26:04 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:26:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:26:16 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:27:59 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:28:00 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:29:52 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 3
+[29-Mar-2023 14:29:52 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:29:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:30:51 UTC] PHP Warning:  Attempt to read property "prefix" on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[29-Mar-2023 14:30:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[29-Mar-2023 14:44:26 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 6
+[29-Mar-2023 14:44:26 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query SELECT DISTINCT quiz_id FROM wp_tutor_quiz_attempts WHERE `course_id` = 
+[29-Mar-2023 14:46:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 13
+[29-Mar-2023 14:46:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 13
+[29-Mar-2023 14:47:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 13
+[29-Mar-2023 14:47:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 13
+[29-Mar-2023 15:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 12
+[29-Mar-2023 15:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 12
+[29-Mar-2023 15:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 12
+[29-Mar-2023 15:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 12
+[29-Mar-2023 15:23:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 13
+[29-Mar-2023 15:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 13
+[30-Mar-2023 03:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 14
+[30-Mar-2023 03:48:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 14
+[30-Mar-2023 03:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function home_url() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[30-Mar-2023 03:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function home_url() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 4
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:58:52 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 04:59:50 UTC] PHP Warning:  Undefined variable $quiz_name in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 19
+[30-Mar-2023 05:03:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_ID() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 05:07:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function main() on null in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-includes/functions.php:1332
+Stack trace:
+#0 /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php(7): wp()
+#1 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-includes/functions.php on line 1332
+[30-Mar-2023 05:10:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[30-Mar-2023 05:11:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 5
+[30-Mar-2023 05:12:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 15
+[30-Mar-2023 05:12:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 15
+[30-Mar-2023 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 15
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant DB_NAME already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 23
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant DB_USER already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 26
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant DB_PASSWORD already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 29
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant DB_HOST already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 32
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant DB_CHARSET already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 35
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant DB_COLLATE already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 38
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant AUTH_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 49
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant SECURE_AUTH_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 50
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant LOGGED_IN_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 51
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant NONCE_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 52
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant AUTH_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 53
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant SECURE_AUTH_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 54
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant LOGGED_IN_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 55
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant NONCE_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 56
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant FS_METHOD already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 61
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant FS_CHMOD_DIR already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 62
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant FS_CHMOD_FILE already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 63
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant WP_TEMP_DIR already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 64
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant AUTOMATIC_UPDATER_DISABLED already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 71
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant WP_DEBUG already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 96
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant WP_MEMORY_LIMIT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 96
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant FORCE_SSL_ADMIN already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 107
+[30-Mar-2023 05:17:24 UTC] PHP Warning:  Constant FORCE_SSL_LOGIN already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 108
+[30-Mar-2023 05:17:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 16
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant DB_NAME already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 23
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant DB_USER already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 26
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant DB_PASSWORD already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 29
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant DB_HOST already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 32
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant DB_CHARSET already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 35
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant DB_COLLATE already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 38
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant AUTH_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 49
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant SECURE_AUTH_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 50
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant LOGGED_IN_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 51
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant NONCE_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 52
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant AUTH_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 53
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant SECURE_AUTH_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 54
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant LOGGED_IN_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 55
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant NONCE_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 56
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant FS_METHOD already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 61
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant FS_CHMOD_DIR already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 62
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant FS_CHMOD_FILE already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 63
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant WP_TEMP_DIR already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 64
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant AUTOMATIC_UPDATER_DISABLED already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 71
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant WP_DEBUG already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 96
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant WP_MEMORY_LIMIT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 96
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant FORCE_SSL_ADMIN already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 107
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Constant FORCE_SSL_LOGIN already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 108
+[30-Mar-2023 05:22:35 UTC] PHP Warning:  Undefined property: stdClass::$quiz_id in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 15
+[30-Mar-2023 05:22:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 17
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant DB_NAME already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 23
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant DB_USER already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 26
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant DB_PASSWORD already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 29
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant DB_HOST already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 32
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant DB_CHARSET already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 35
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant DB_COLLATE already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 38
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant AUTH_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 49
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant SECURE_AUTH_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 50
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant LOGGED_IN_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 51
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant NONCE_KEY already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 52
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant AUTH_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 53
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant SECURE_AUTH_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 54
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant LOGGED_IN_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 55
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant NONCE_SALT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 56
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant FS_METHOD already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 61
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant FS_CHMOD_DIR already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 62
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant FS_CHMOD_FILE already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 63
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant WP_TEMP_DIR already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 64
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant AUTOMATIC_UPDATER_DISABLED already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 71
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant WP_DEBUG already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 96
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant WP_MEMORY_LIMIT already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 96
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant FORCE_SSL_ADMIN already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 107
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Constant FORCE_SSL_LOGIN already defined in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-config.php on line 108
+[30-Mar-2023 05:23:32 UTC] PHP Warning:  Undefined property: stdClass::$quiz_id in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 15
+[30-Mar-2023 05:23:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_title() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 17
+[30-Mar-2023 11:04:27 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[30-Mar-2023 11:04:27 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query SELECT ID,post_title FROM `wp_posts` where ID IN (SELECT DISTINCT quiz_id FROM wp_tutor_quiz_attempts WHERE `course_id` = )
+[30-Mar-2023 11:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 2
+[30-Mar-2023 11:05:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 2
+[30-Mar-2023 11:06:14 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 8
+[30-Mar-2023 11:06:14 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query SELECT ID,post_title FROM `wp_posts` where ID IN (SELECT DISTINCT quiz_id FROM wp_tutor_quiz_attempts WHERE `course_id` = )
+[30-Mar-2023 11:08:55 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 7
+[30-Mar-2023 11:08:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query SELECT ID,post_title FROM `wp_posts` where ID IN (SELECT DISTINCT quiz_id FROM wp_tutor_quiz_attempts WHERE `course_id` = )
+[30-Mar-2023 11:09:10 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 7
+[30-Mar-2023 11:09:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query SELECT ID,post_title FROM `wp_posts` where ID IN (SELECT DISTINCT quiz_id FROM wp_tutor_quiz_attempts WHERE `course_id` = )
+[30-Mar-2023 11:09:31 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 7
+[30-Mar-2023 11:09:31 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query SELECT ID,post_title FROM `wp_posts` where ID IN (SELECT DISTINCT quiz_id FROM wp_tutor_quiz_attempts WHERE `course_id` = )
+[30-Mar-2023 11:31:39 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 7
+[30-Mar-2023 11:31:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query SELECT ID,post_title FROM `wp_posts` where ID IN (SELECT DISTINCT quiz_id FROM wp_tutor_quiz_attempts WHERE `course_id` = )
+[31-Mar-2023 04:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_footer() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php on line 7
+[31-Mar-2023 04:14:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_footer() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php on line 7
+[31-Mar-2023 04:14:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php on line 4
+[31-Mar-2023 04:14:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php on line 4
+[31-Mar-2023 04:14:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_footer() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php on line 9
+[31-Mar-2023 04:17:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_footer() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php on line 9
+[31-Mar-2023 04:17:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_footer() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php on line 9
+[31-Mar-2023 04:18:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_footer() in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/student-report.php on line 9
+[04-Apr-2023 10:28:03 UTC] PHP Warning:  Undefined array key "course" in /home/d210mepefxeb/public_html/staging.pizzau.johnnysph.com/wp-content/plugins/report-generator/quiz.php on line 7
+[04-Apr-2023 10:28:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query SELECT ID,post_title FROM `wp_posts` where ID IN (SELECT DISTINCT quiz_id FROM wp_tutor_quiz_attempts WHERE `course_id` = )
